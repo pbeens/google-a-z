@@ -7,6 +7,6 @@ I have attempted to keep it up to date as I learn about new content, but sadly, 
 
 To get around this I am going to start keeping my GitHub copy of the document up-to-date and will share it from there. 
 
-Anything missing? Contact me at pbeens@gmail.com or on Twitter at @pbeens. Thanks! 
+Anything missing? Contact me at <pbeens@gmail.com> or on Twitter at @pbeens. Thanks! 
 
 ~Peter
